@@ -45,3 +45,4 @@ fig.add_trace(go.Bar(y=df_cardio["gender"].value_counts(), x=["Feminino", "Mascu
 
 fig.update_layout(template="plotly_dark",height=700)
 fig.show()
+
