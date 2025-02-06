@@ -84,7 +84,7 @@ plt.show()
 
 ---
 
-## 🛠 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Instale os pacotes necessários:
    ```bash
@@ -95,13 +95,4 @@ plt.show()
 
 ---
 
-## 📊 Conclusão
 
-O modelo Random Forest conseguiu prever doenças cardíacas com uma performance razoável. Além disso, a importância das features nos permitiu entender quais variáveis mais influenciam no diagnóstico.
-
-📌 **Melhorias Futuras**:
-- Testar outros modelos como **XGBoost** e **Redes Neurais**.
-- Implementar técnicas de engenharia de features.
-- Aumentar a profundidade da análise estatística dos dados.
-
-📌 **Autor:** [Tary Nascimento Rego Junior](https://github.com/tn-junior)
