@@ -40,3 +40,4 @@ Para avaliar o desempenho do modelo, utilizou:
 - **Precision, Recall e F1-score**: avaliam a qualidade da classificação para cada classe.
 - **Importância das Features**: identifica os fatores mais relevantes na previsão da doença cardíaca.
 
+Este projeto busca não apenas compreender a influência dos fatores de risco no desenvolvimento de doenças cardíacas, mas também destacar implicações clínicas e preventivas relevantes, especialmente em um contexto de avanços na medicina preditiva. Para detalhes metodológicos adicionais, consulte a seção correspondente.
